@@ -1,0 +1,34 @@
+{
+  "auto-close-tag.fullMode": true,
+  "diffEditor.ignoreTrimWhitespace": true,
+  "editor.cursorBlinking": "expand",
+  "editor.fontFamily": "\"Source Code Pro\"",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "editor.tabSize": 2,
+  "files.autoSave": "onFocusChange",
+  "files.exclude": {
+    "**/.git": false,
+    "**/.idea": true
+  },
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "git.autofetch": true,
+  "html-css-class-completion.enableEmmetSupport": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "scm.diffDecorations": "gutter",
+  "search.showLineNumbers": true,
+  "search.useIgnoreFiles": false,
+  "terminal.external.osxExec": "iterm.app",
+  "workbench.colorTheme": "Darcula Theme from IntelliJ",
+  "editor.fontLigatures": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnType": true,
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": true
+  }
+}
+
